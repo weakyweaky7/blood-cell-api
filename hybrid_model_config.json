@@ -1,0 +1,6 @@
+{
+  "threshold": 0.0207,
+  "class_names": ["EOSINOPHIL", "LYMPHOCYTE", "MONOCYTE", "NEUTROPHIL", "ANOMALY"],
+  "normal_error_mean": 0.0137,
+  "normal_error_std": 0.0023
+}
